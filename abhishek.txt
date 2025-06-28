@@ -1,2 +1,4 @@
 hello
 Hello how are you?
+fine What about you
+I'm good, gratefully you have learned git & GitHub workflow
